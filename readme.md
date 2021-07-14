@@ -1,7 +1,6 @@
 # Driver Drowsiness Detection
 
-This project accepts photos of people driving vehicles and tells whether they are alert enough to drive safely. 
-  
+This project accepts photos of people driving vehicles and tells whether they are alert enough to drive safely with 96.7% validation accuraacy.  
   
 # Packages used
 
@@ -14,7 +13,7 @@ pandas v1.2.4
 matplotlib v3.4.2  
 seaborn v0.11.1  
 tqdm v4.61.1  
-scikit-learn v0.24.2 
+scikit-learn v0.24.2  
 Out of these you only need tensorflow and keras for predictions.  
 
 # Dataset
